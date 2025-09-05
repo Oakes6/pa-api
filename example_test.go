@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	paapi5 "github.com/goark/pa-api"
+	paapi5 "github.com/Oakes6/pa-api"
 )
 
 func ExampleServer() {

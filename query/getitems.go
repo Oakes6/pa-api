@@ -1,7 +1,7 @@
 package query
 
 import (
-	paapi5 "github.com/goark/pa-api"
+	paapi5 "github.com/Oakes6/pa-api"
 )
 
 // GetItems type is embedded Query for GetItems operation in PA-API v5

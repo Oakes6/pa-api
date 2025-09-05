@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	"github.com/goark/errs"
-	paapi5 "github.com/goark/pa-api"
+	paapi5 "github.com/Oakes6/pa-api"
 )
 
 // Query is a query data class for PA-API v5
